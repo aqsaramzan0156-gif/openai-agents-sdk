@@ -1,0 +1,16 @@
+# Jupyter Notebooks - IGNORE ALL
+notebooks/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Virtual Environment
+.venv/
+venv/ 
